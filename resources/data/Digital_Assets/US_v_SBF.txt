@@ -1,0 +1,20 @@
+### U.S. v. Sam Bankman-Fried (2022-2023)
+
+The criminal case against Sam Bankman-Fried (SBF), the founder of the cryptocurrency exchange FTX, has become a defining moment for the cryptocurrency industry. Following the collapse of FTX in November 2022, SBF was charged with fraud, money laundering, and other crimes, shedding light on governance failures and risks in the crypto sector.
+
+#### Background
+
+FTX was one of the largest cryptocurrency exchanges, with a valuation exceeding \$32 billion at its peak. However, in November 2022, the company filed for bankruptcy amid revelations of financial mismanagement and the misuse of customer funds. Investigations revealed that FTX had transferred billions of dollars in customer funds to Alameda Research, a trading firm co-founded by SBF, to cover its losses.
+
+The U.S. Department of Justice (DOJ) charged SBF with multiple counts of wire fraud, securities fraud, and money laundering. Prosecutors alleged that SBF orchestrated a scheme to defraud FTX customers and investors by misusing funds for personal gain and risky investments. SBF was arrested in the Bahamas in December 2022 and extradited to the United States.
+
+#### Legal Developments
+
+The trial of SBF began in late 2023, drawing extensive media coverage. Key witnesses, including former FTX executives, testified against SBF, providing evidence of his involvement in fraudulent activities. The prosecution presented emails, financial records, and other documents to demonstrate how SBF misled customers, investors, and regulators.
+
+In November 2023, SBF was found guilty on all counts. The verdict marked a significant victory for U.S. authorities and highlighted the need for stronger oversight and accountability in the cryptocurrency industry. Sentencing is expected in early 2024, with SBF facing the possibility of decades in prison.
+
+#### Implications
+
+The case against SBF has had a profound impact on the cryptocurrency industry, prompting calls for increased regulation and transparency. It has underscored the risks associated with centralized exchanges and the importance of safeguarding customer funds. The case also serves as a cautionary tale for investors and companies in the crypto space, emphasizing the need for robust governance and compliance practices.
+

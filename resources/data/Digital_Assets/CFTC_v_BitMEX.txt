@@ -1,0 +1,20 @@
+### CFTC v. BitMEX (2020-2021)
+
+The Commodity Futures Trading Commission (CFTC) v. BitMEX case was a landmark enforcement action against a cryptocurrency derivatives platform. Filed in October 2020, the CFTC accused BitMEX of operating an unregistered trading platform and violating anti-money laundering (AML) regulations.
+
+#### Background
+
+BitMEX was a leading platform for cryptocurrency derivatives, offering leveraged trading products such as perpetual contracts. However, the platform's operations raised concerns about regulatory compliance and investor protection. The CFTC alleged that BitMEX failed to register as a futures commission merchant and did not implement adequate AML and know-your-customer (KYC) measures.
+
+The case also involved criminal charges against BitMEX's founders for violating the Bank Secrecy Act (BSA). The U.S. Department of Justice (DOJ) alleged that BitMEX facilitated transactions for U.S. customers without complying with regulatory requirements, enabling money laundering and other illicit activities.
+
+#### Legal Developments
+
+In August 2021, BitMEX agreed to pay a \$100 million civil monetary penalty to settle the CFTC’s charges. The settlement required BitMEX to enhance its compliance measures and ensure that its platform operates in accordance with U.S. regulations.
+
+In addition to the civil settlement, BitMEX's founders faced criminal charges. In 2022, they pleaded guilty to violating the BSA and agreed to pay fines as part of their plea agreements.
+
+#### Implications
+
+The BitMEX case underscored the importance of regulatory compliance in the cryptocurrency derivatives market. It also highlighted the need for robust AML and KYC measures to prevent illicit activities. The case set a precedent for enforcement actions against cryptocurrency platforms and emphasized the growing regulatory focus on the industry.
+

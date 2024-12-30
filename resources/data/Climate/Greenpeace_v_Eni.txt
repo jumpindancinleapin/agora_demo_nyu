@@ -1,0 +1,44 @@
+**Greenpeace v. Eni: A Case Summary**
+
+**Case Overview:**
+Greenpeace v. Eni is a pioneering climate litigation case initiated in Italy, marking the first lawsuit against a privately owned company in the country concerning climate change. Filed on May 9, 2023, in the Civil Court of Rome, the case was brought by Greenpeace Italy, the advocacy group ReCommon, and twelve Italian citizens from regions adversely affected by climate change. The defendants include Eni S.p.A., a major Italian energy company, along with its principal shareholders: the Italian Ministry of Economy and Finance (MEF) and Cassa Depositi e Prestiti S.p.A. (CDP). 
+
+**Legal Claims:**
+The plaintiffs allege that:
+
+1. **Duty of Care Violation**: Eni breached its duty of care by continuing extensive fossil fuel activities despite being aware, since the 1970s, of the potential catastrophic impacts on the climate. 
+
+2. **Human Rights Infringement**: Eni's actions have violated fundamental human rights protected under the Italian Constitution and international agreements, including the rights to life, health, and an undisturbed private and family life. 
+
+3. **Non-Compliance with the Paris Agreement**: Eni's current decarbonization strategy is inconsistent with the objectives of the Paris Agreement, failing to take adequate measures to limit global warming. 
+
+**Key Issues:**
+1. **Corporate Accountability**: Determining whether Eni can be held legally responsible for its contributions to climate change and the resulting impacts on human rights.
+
+2. **State Influence**: Assessing the role of Eni's major shareholders, MEF and CDP, in influencing the company's policies and their potential liability.
+
+3. **Judicial Competence**: Establishing whether the Italian judiciary has the jurisdiction to adjudicate matters involving global greenhouse gas emissions and corporate climate strategies.
+
+**Court Proceedings:**
+The initial hearing took place on February 16, 2024, where the court addressed preliminary objections, including challenges to its jurisdiction. Eni, along with MEF and CDP, contended that the court lacked the authority to rule on the company's global emissions and that such matters pertain to political or business domains. 
+
+In June 2024, Greenpeace Italy and ReCommon petitioned the Civil Court of Rome to stay the proceedings, seeking a jurisdictional review by the Italian Supreme Court (Court of Cassation). The Civil Court granted the stay, suspending the trial pending the Supreme Court's determination on the admissibility of climate litigation cases in Italy. 
+
+**Arguments and Evidence:**
+- **Plaintiffs' Position**: The plaintiffs presented historical documents indicating that Eni was aware of the climate risks associated with fossil fuels as early as the 1970s. Despite this knowledge, Eni allegedly continued to expand its fossil fuel operations, contributing significantly to global greenhouse gas emissions. The plaintiffs argue that this conduct has directly harmed their health, property, and livelihoods due to climate-induced events such as droughts, sea-level rise, and extreme weather. 
+
+- **Defendants' Position**: Eni has dismissed the lawsuit as unfounded, asserting that its decarbonization strategy appropriately balances sustainability, energy security, and competitiveness. The company has indicated its intent to demonstrate the groundlessness of the claims in court. 
+
+**Significance:**
+1. **Precedent in Italian Climate Litigation**: This case represents the first instance of climate litigation against a private company in Italy, potentially setting a precedent for future legal actions concerning corporate contributions to climate change.
+
+2. **Human Rights and Environmental Law Intersection**: The lawsuit underscores the linkage between environmental degradation due to corporate activities and violations of human rights, highlighting the legal responsibilities of corporations beyond mere compliance with environmental regulations.
+
+3. **State-Owned Enterprises' Accountability**: By including MEF and CDP as defendants, the case emphasizes the accountability of state-owned or state-influenced enterprises in adhering to national and international climate commitments.
+
+**Implications:**
+The outcome of Greenpeace v. Eni could have substantial implications for corporate governance and environmental responsibility in Italy and beyond. A ruling in favor of the plaintiffs may compel Eni and similar corporations to adopt more aggressive emissions reduction targets and align their business models with the Paris Agreement's objectives. Conversely, a dismissal on jurisdictional grounds could influence the trajectory of climate litigation in Italy, potentially limiting judicial avenues for addressing corporate contributions to climate change.
+
+As the case awaits the Supreme Court's decision on jurisdiction, it continues to attract significant attention from environmental organizations, legal scholars, and policymakers, reflecting the growing global trend of utilizing legal frameworks to confront climate change challenges.
+
+ 
