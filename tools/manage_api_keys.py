@@ -15,7 +15,7 @@ st.divider()
 
 #Inputs
 st.text_input("OpenAI API Key", disabled=True, type="password", value="Nice try!")
-st.text_input("Anthropic API Key", disabled=True, type="password", value="When's the library reopen?")
+st.text_input("Anthropic API Key", disabled=True, type="password", value="Not quite...")
 # - actual code is removed, lightening payload for Columbia, page is just illustrative
 
 

@@ -26,7 +26,7 @@ st.write(
     A few choices to personalize your experience. 
     The **avatar** will be your chat icon, and the **topic**
     dictates to which set of files Agora and Queequeg will 
-    refer. I have locked the **model** to the latest and greatest
+    refer. I have locked the **model** to most appropriate option for this use case
     to maximize the experience. You can **make changes at any time**.
     """
 )
@@ -36,7 +36,7 @@ st.divider()
 #Inputs
 avatar_options = ["🗽", "⚖️", "🍎", "🟣"]
 topic_options = ["Artificial_Intelligence", "Climate", "Digital_Assets"]
-model_options = ["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o"]
+model_options = ["gpt-3.5-turbo", "gpt-4o-mini", "gpt-4o", "o1"]
 
 col1, col2 = st.columns(2)
 
@@ -45,10 +45,10 @@ with col1:
         "Please choose an **avatar**:",
         avatar_options,
         captions=[
-            "Lady Liberty",
+            "Lady Liberty.",
             "Checks and balances.",
             "Welcome to NY!",
-            "NYU Colors",
+            "NYU Colors :D",
         ],
         index=avatar_options.index(st.session_state["avatar_choice"]),
     )
@@ -67,6 +67,7 @@ with col2:
             "Older",
             "Fast, cheap",
             "Robust, pricier",
+            "New, deeper reasoning"
         ],
         index=model_options.index(st.session_state["model_choice"]),
         disabled=True

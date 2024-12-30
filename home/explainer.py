@@ -14,8 +14,6 @@ st.write(
     For navigation, use the buttons (below) to follow the demonstration flow I've set, 
     or navigate freely using the side menu (left, accessible via arrow on mobile).
 
-    If any red errors pop up, refresh the page to continue.
-
     Next, you'll choose some preferences, and go on a tour of the platform. 
     """
 )

@@ -55,8 +55,8 @@ else:
         full_path = f"{directory_path}/{file_path}"
         with open(full_path, "r") as file:
             text = file.read()
-            if len(text) > 1000:
-                text = text[:1000]
+            if len(text) > 500:
+                text = text[:500]
                 text = text + " **[...]**"
             st.write(text)
 

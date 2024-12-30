@@ -59,6 +59,8 @@ if st.session_state["agora_v2_instructions_viewed"] == False:
         **Ask Agora about a detail in the files you chose. To find Agora's boundaries, 
         request they write an essay or state an opinion.**
 
+        When you're satisfied, proceed to **Guided Chat** using the button above.
+
         These instructions will go away once you begin your chat.
         To read them again, click **Restart** in the side menu. This will
         also restart the chat.

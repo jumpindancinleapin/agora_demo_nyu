@@ -15,7 +15,7 @@ with head_m:
 #Messaging
 st.subheader("Welcome, NYU Law!")
 
-st.write("**Thank you for your time!** Please find a demonstration of the platform I describe in my personal statement. -Jake")
+st.write("**Thank you for your time!** Please find a light demonstration. -Jake")
 
 #Nav
 col1, col2, col3 = st.columns(3)

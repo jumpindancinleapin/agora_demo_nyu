@@ -71,6 +71,8 @@ if st.session_state["agora_v3_instructions_viewed"] == False:
         Queequeg will regenerate more prompts based on the direction
         of the conversation. 
 
+        Click **Complete Demo** once you're satisfied. 
+
         Instructions will go away once you begin.
         To read them again, click **Restart** in the side menu, where
         **Status** is also available.

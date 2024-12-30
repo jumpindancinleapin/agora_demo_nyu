@@ -45,13 +45,13 @@ st.write(
 
     **Future**
 
-    This tech-stack allows for rapid scalability. The app is built to be modular, and interoperable
+    This tech-stack allows for rapid scaling. The app is built to be modular, and interoperable
     with databases, payment systems, account systems, et cetera. **While this is a very simple demonstration, 
     the potential for this app is as far as our imaginations take us.** 
     """
 )
 
-st.caption("Version v1.1c")
+st.caption("Version v1.1n")
 
 
 st.divider()
