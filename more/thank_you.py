@@ -39,12 +39,6 @@ st.write(
     This web-and-tech space, it is my home turf. I am 
     thankful for an opportunity to be seen at my best. 
 
-    My message is this: I am not an AI enthusiast; not a 
-    Linkedin personality with AI in my bio and 
-    posts about who should be doing what. 
-    I am a practioner. This app is an attempt to 
-    solve a problem and support the success of others. 
-
     As I learn more about the values of NYU Law,
     I will iterate upon this webapp to protect them. 
     
